@@ -43,10 +43,10 @@
 ## Below are visuals to accompany the logic concepts described above 
 
 - This is the RTL structural schematic for the design 
-![alt text](Attachments\FinalProjectSchematic2742.png "Schematic")
+![alt text](Attachments/FinalProjectSchematic2742.png "Schematic")
 
 - Below is the physical switch / seven segment display layout for the Basys 3 FPGA board. 
-![alt text](Attachments\ConstraintLayout.jpg "Board Layout")
+![alt text](Attachments/ConstraintLayout.jpg "Board Layout")
 
 - Below is a short demonstration of the machine operating. Since this video was taken, I have added small nuance features to make the design more complete. These features are in the most recent version of the modular code, but have little effect on the logic of the machine. 
   
